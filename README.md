@@ -139,6 +139,16 @@ Add grader ALL=(ALL:ALL) ALL in nano editor
   - Restart SSH: `sudo service ssh restart`
 - On the local machine, run: `ssh -i ~/.ssh/grader_key -p 2200 grader@54.213.226.57`.
 
+#### passphrase for grader user
+
+India@123
+
+#### password for grader
+
+grader
+
+
+
 **References**
 - DigitalOcean, [How To Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2).
 - Ubuntu Wiki, [SSH/OpenSSH/Keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys).
