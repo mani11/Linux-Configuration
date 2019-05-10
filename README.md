@@ -9,7 +9,7 @@ This page explains how to secure and set up a Linux distribution on a virtual ma
 - The database server is [PostgreSQL](https://www.postgresql.org/).
 - My local machine is a MacBook Pro (Mac OS X 10_14_3).
 
-You can visit http://54.213.226.57/ or http://54.213.226.57/xip.io to view the website deployed.
+You can visit http://54.213.226.57/ or http://54.213.226.57.xip.io to view the website deployed.
 
 ## Get a server
 
